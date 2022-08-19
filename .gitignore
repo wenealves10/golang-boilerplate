@@ -1,0 +1,24 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+vendor/
+cmd/sqlize/vendor/
+cmd_test/
+vendor.zip
+*.protoset
+
+# Test binary, build with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+.idea
+.vscode
+.envrc
+.DS_Store
+repositories/user_metadata_test.go
