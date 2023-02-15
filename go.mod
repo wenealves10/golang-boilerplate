@@ -18,7 +18,7 @@ require (
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/lyft/protoc-gen-star v0.6.0 // indirect
 	github.com/mwitkow/go-proto-validators v0.3.2
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/rogpeppe/go-internal v1.8.1 // indirect
 	github.com/spf13/viper v1.9.0
 	github.com/stretchr/objx v0.3.0 // indirect
